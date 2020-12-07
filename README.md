@@ -9,7 +9,7 @@ Please refer to [here](https://github.com/guruahn/vue-google-oauth2) for Vue2 ap
 ![vue3-google-oauth2](https://img.shields.io/npm/dt/vue3-google-oauth2.svg)
 
 
-[Front-end Demo](https://github.com/guruahn/vue3-google-oauth2)
+[Front-end Demo](https://github.com/guruahn/vue3-google-oauth2-front-sample)
 
 ## Installation
 ### Installation with npm
@@ -51,7 +51,7 @@ app.use(GAuth, gAuthOptions)
 | signOut      | function for sign-out | Function  |
 
 ## Reactivity
-> We support **reactivity** by Provide/Injection. Refer to [sample project](https://github.com/guruahn/vue3-google-oauth2).
+> We support **reactivity** by Provide/Injection. Refer to [sample project](https://github.com/guruahn/vue3-google-oauth2-front-sample).
 
 | Property     | Description        | Type     |
 |--------------|--------------------|----------|
@@ -59,7 +59,7 @@ app.use(GAuth, gAuthOptions)
 | Vue3GoogleOauth.isAuthorized   | it will return reactivity object value({isInit, isAuthorized})  | Object |
 
 ## Usages
-Refer to [sample project](https://github.com/guruahn/vue3-google-oauth2).
+Refer to [sample project](https://github.com/guruahn/vue3-google-oauth2-front-sample).
 
 
 ## Extra - Directly get `access_token` and `refresh_token` on Server-side
