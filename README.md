@@ -51,7 +51,7 @@ app.use(GAuth, gAuthOptions)
 | signOut      | function for sign-out | Function  |
 
 ## Reactivity
-> We support **reactivity** by Provide/Injection. Refer to [sample project](https://github.com/guruahn/vue-google-oauth2-front-sample-vue3).
+> We support **reactivity** by Provide/Injection. Refer to [sample project](https://github.com/guruahn/vue3-google-oauth2).
 
 | Property     | Description        | Type     |
 |--------------|--------------------|----------|
@@ -59,7 +59,7 @@ app.use(GAuth, gAuthOptions)
 | Vue3GoogleOauth.isAuthorized   | it will return reactivity object value({isInit, isAuthorized})  | Object |
 
 ## Usages
-Refer to [sample project](https://github.com/guruahn/vue-google-oauth2-front-sample-vue3).
+Refer to [sample project](https://github.com/guruahn/vue3-google-oauth2).
 
 
 ## Extra - Directly get `access_token` and `refresh_token` on Server-side
