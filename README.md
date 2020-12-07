@@ -5,11 +5,11 @@ Please refer to [here](https://github.com/guruahn/vue-google-oauth2) for Vue2 ap
 
 
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/vue3-google-oauth2.svg)
-![GitHub](https://img.shields.io/github/license/guruahn/vue3-google-oauth2.svg)
+![GitHub](https://img.shields.io/npm/l/vue3-google-oauth2)
 ![vue3-google-oauth2](https://img.shields.io/npm/dt/vue3-google-oauth2.svg)
 
 
-<!-- [Front-end Demo](https://stupefied-darwin-da9533.netlify.com/) -->
+[Front-end Demo](https://github.com/guruahn/vue3-google-oauth2)
 
 ## Installation
 ### Installation with npm
