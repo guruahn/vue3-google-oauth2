@@ -120,7 +120,7 @@ export default {
     if (typeof options === 'object') {
       config = Object.assign(defaultConfig, options);
       if (!options.clientId) {
-        throw new Error('clientId is require');
+        throw new Error('clientId is required');
       }
     } else {
       throw new TypeError('invalid option type. Object type accepted only');
