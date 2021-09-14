@@ -1,6 +1,6 @@
 {
   "name": "vue3-google-oauth2",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Handling Google sign-in and sign-out for Vue3 applications.",
   "main": "index.js",
   "scripts": {
