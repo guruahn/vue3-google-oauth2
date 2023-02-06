@@ -1,5 +1,5 @@
 # DEPRECATED - no longer actively maintained
-You can use this plugin vue3-google-login instead to have support for the new Google Identity Services JavaScript library.
+You can use [this plugin vue3-google-login](https://github.com/yobaji/vue3-google-login/) instead to have support for the new Google Identity Services JavaScript library.
 
 # vue3-google-oauth2
 Handling Google sign-in and sign-out for Vue3 applications. 
